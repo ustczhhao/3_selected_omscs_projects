@@ -3,4 +3,6 @@ Selected project files from courses taken in the Georgia Tech OMSCS program.
 
 ## Featured Project
 
-- **MRI Reconstruction with Swin-Unet**: a transformer-based deep learning project for accelerated MRI reconstruction from undersampled data.
+- **1. MRI Reconstruction with Swin-Unet**: A transformer-based MRI reconstruction project for recovering high-quality knee MRI images from undersampled data. The work was inspired by the broader fast MRI reconstruction literature and focuses on transformer-based reconstruction for undersampled knee MRI data.
+
+- **2. BuzzBuy Data Warehouse**: A retail data warehouse project focused on schema design, role-based reporting, and business-oriented analytics. The project includes normalized warehouse design, user access control, audit logging, and SQL-based reporting workflows for decision support.
