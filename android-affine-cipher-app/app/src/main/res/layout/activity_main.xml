@@ -1,0 +1,118 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <!-- App Title -->
+    <TextView
+        android:id="@+id/appTitleID"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="SDP Encryptor Spring 2025"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Source Text Label -->
+    <TextView
+        android:id="@+id/sourceTextLabelID"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Source Text"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/appTitleID" />
+
+    <!-- Source Text -->
+    <EditText
+        android:id="@+id/sourceTextID"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="Enter Source Text"
+        android:inputType="text"
+        android:layout_marginTop="8dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/sourceTextLabelID" />
+
+    <!-- Slope Input Label -->
+    <TextView
+        android:id="@+id/slopeInputLabelID"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Slope Input"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/sourceTextID" />
+
+    <!-- Slope Input -->
+    <EditText
+        android:id="@+id/slopeInputID"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="Enter Slope Input"
+        android:inputType="number"
+        android:layout_marginTop="8dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/slopeInputLabelID" />
+
+    <!-- Offset Input Label -->
+    <TextView
+        android:id="@+id/offsetInputLabelID"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Offset Input"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/slopeInputID" />
+
+    <!-- Offset Input -->
+    <EditText
+        android:id="@+id/offsetInputID"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="Enter Offset Input"
+        android:inputType="number"
+        android:layout_marginTop="8dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/offsetInputLabelID" />
+
+    <!-- Transform Button -->
+    <Button
+        android:id="@+id/transformButtonID"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Transform Source Text"
+        android:layout_marginTop="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/offsetInputID" />
+
+    <!-- Transformed Text -->
+    <TextView
+        android:id="@+id/transformedTextID"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Source Text Transformed"
+        android:textSize="16sp"
+        android:gravity="center"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/transformButtonID" />
+</androidx.constraintlayout.widget.ConstraintLayout>
