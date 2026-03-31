@@ -7,4 +7,6 @@ Selected project files from courses taken in the Georgia Tech OMSCS program.
 
 - **2. BuzzBuy Data Warehouse**: A retail data warehouse project focused on schema design, role-based reporting, and business-oriented analytics. The project includes normalized warehouse design, user access control, audit logging, and SQL-based reporting workflows for decision support.
 
-- **3. Job Offer Comparison App**: An Android application project for comparing job offers across salary, benefits, and location-adjusted compensation factors, with a strong emphasis on software design and development process.
+- **3. Android Affine Cipher App**: a Java-based Android application that encrypts alphanumeric text using an affine cipher, with structured input validation and specification-driven UI behavior.
+
+- **4. Job Offer Comparison App**: An Android application project for comparing job offers across salary, benefits, and location-adjusted compensation factors, with a strong emphasis on software design and development process.
