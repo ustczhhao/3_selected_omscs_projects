@@ -10,3 +10,5 @@ Selected project files from courses taken in the Georgia Tech OMSCS program.
 - **3. Android Affine Cipher App**: a Java-based Android application that encrypts alphanumeric text using an affine cipher, with structured input validation and specification-driven UI behavior.
 
 - **4. Job Offer Comparison App**: An Android application project for comparing job offers across salary, benefits, and location-adjusted compensation factors, with a strong emphasis on software design and development process.
+
+- **5. Text Transformation API**: An Java project that implements a reusable text-processing API with interface-driven design, exception-based error handling, and test-compatible behavior.
