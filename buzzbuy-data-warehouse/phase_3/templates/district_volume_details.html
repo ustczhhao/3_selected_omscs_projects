@@ -1,0 +1,33 @@
+{% extends 'base.html' %}{% block content %}
+<div>
+  <h1>Details for {{ category }}</h1>
+  <h3>Summary</h3>
+  <p>Category Name: {{ category }}</p>
+  <p>District Number: {{ district }}</p>
+  <p>Start Date: {{ start_date}}</p>
+  <p>End Date: {{ end_date }}</p>
+
+  <h3>Stores</h3>
+  <p>Ordered by store ID ascending.</p>
+  <table class="table table-warning m-0">
+    <thead>
+      <tr>
+        <th>District Number</th>
+        <th>Store Number</th>
+        <th>State</th>
+        <th>City Name</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for d in data %}
+      <tr>
+        <td>{{ d.district_number }}</td>
+        <td>{{ d.store_number }}</td>
+        <td>{{ d.state }}</td>
+        <td>{{ d.city_name }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

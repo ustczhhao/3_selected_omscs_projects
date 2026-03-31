@@ -1,0 +1,30 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Audit Log</h1>
+<p class="p-2">Ordered by timestamp descending and employee ID ascending.</p>
+<div id="main-container"></div>
+
+<div class="mt-3 rounded-2 overflow-hidden border border-warning p-2">
+  <table class="table m-0">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Timestamp</th>
+        <th>Employee ID</th>
+        <th>Employee Name</th>
+        <th>Report Name</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for d in data %}
+      <tr {% if d.is_assigned_all_areas %}class="table-warning" {% endif %}>
+        <td>{{ loop.index }}</td>
+        <td>{{ d.time_stamp }}</td>
+        <td>{{ d.employeeID_view_report }}</td>
+        <td>{{ d.full_name }}</td>
+        <td>{{ d.report_name }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

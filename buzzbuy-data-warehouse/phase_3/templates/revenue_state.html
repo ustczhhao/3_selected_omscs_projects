@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div>
+    <h1>Revenue by State</h1>
+    <form method="post" action="{{ url_for('revenue_state') }}">
+        <div class="form-group">
+            <label for="state">Select State:</label>
+            <select id="state" name="state" class="form-control">
+                {% for state in states %}
+                    <option value="{{ state.state }}" {% if state.state == selected_state %}selected{% endif %}>{{ state.state }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary mt-2">Submit</button>
+    </form>
+    <div class="mt-5 rounded-2 overflow-hidden border-warning p-2">
+        {% if results %}
+            {% if results|length > 0 %}
+                <table class="table table-warning m-0">
+                    <thead class="bg-warning">
+                        <tr>
+                            <th>Store Number</th>
+                            <th>City</th>
+                            <th>Year</th>
+                            <th>Total Revenue</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbody">
+                        {% for result in results %}
+                            <tr>
+                                <td>{{ result.store_number }}</td>
+                                <td>{{ result.city_name }}</td>
+                                <td>{{ result.year }}</td>
+                                <td>${{"{:,}".format(result.total_revenue) }}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            {% else %}
+                <p>No Information available</p>
+            {% endif %}
+        {% endif %}
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<!-- <script src="{{ url_for('static', filename='revenue_state.js') }}"></script> -->
+{% endblock %}

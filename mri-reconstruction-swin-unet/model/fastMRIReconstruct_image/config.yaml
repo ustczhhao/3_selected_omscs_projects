@@ -1,0 +1,40 @@
+
+#Data parameters
+train_dataset_path: "./dataset/train/"
+val_dataset_path: "./dataset/val/"
+mask_path: "./masks/random/mask_20_256.pickle"
+save_path: "./save/"
+mask_type: random                                                 # mask: radial,cartesian,random,gaussian,poisson
+img_size: 256                                                       # Input image size (256X256 for IXI).
+
+
+
+
+# Swin-Transformer
+num_classes: 1
+patch_size: 4
+embed_dim: 96
+depths: [2, 2, 6, 2]
+num_heads: [3, 6, 12, 24]
+window_size: 8
+mlp_ratio: 4.
+qkv_bias: True
+qk_scale: None
+drop_rate: 0.0
+drop_path_rate: 0.1
+ape: False
+patch_norm: True
+use_checkpoint: False
+
+#Training parameters
+gnet_lr: 0.001                                                           # Learning rate default: 0.001
+dnet_lr: 0.001
+beta1: 0.5
+beta2: 0.999
+gnet_scheduler_step: 50
+gnet_scheduler_gamma: 0.1
+dnet_scheduler_step: 50
+dnet_scheduler_gamma: 0.1
+epochs_n: 100                                                   # Number of epochs
+batch_size: 20                                                     # Batch size. Reduce if out of memory.Batch size of 32 256X256 images needs ~13GB memory.
+minmax_noise_val: [-0.01, 0.01]

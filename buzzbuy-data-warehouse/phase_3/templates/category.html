@@ -1,0 +1,28 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Category Report</h1>
+<p class="p-2">Sorted by category name ascending.</p>
+<div id="main-container"></div>
+
+<div class="mt-3 rounded-2 overflow-hidden border border-warning p-2">
+  <table class="table table-warning m-0">
+    <thead>
+      <tr>
+        <th>Category</th>
+        <th>Total Products</th>
+        <th>Total Manufactures</th>
+        <th>Average Price</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for d in data %}
+      <tr>
+        <td>{{ d.CategoryName }}</td>
+        <td>{{ d.Product_Number }}</td>
+        <td>{{ d.Manufacturer_Number }}</td>
+        <td>${{ d.AverageRetailPrice }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

@@ -1,0 +1,6 @@
+*.db
+.DS_Store
+**/__pycache__
+**/myenv
+.vscode/settings.json
+

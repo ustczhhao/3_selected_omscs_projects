@@ -1,0 +1,9 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Revenue by Population</h1>
+<p class="p-2">"City Size" and "Year" are arranged in ascending order (oldest to newest for years, smallest to largest for city size).</p>
+<div id="main-container"></div>
+<script
+  type="module"
+  src="{{ url_for('static', filename='js/revenue_population.js') }}"
+></script>
+{% endblock %}

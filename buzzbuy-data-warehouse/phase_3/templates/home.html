@@ -1,0 +1,26 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Home</h1>
+<div id="main-container">
+  <div class="mt-4">
+    <h5>
+      Welcome
+      <span class="badge text-bg-info">{{first_name}} {{last_name}}</span>
+    </h5>
+    <p>Employee ID: {{user_id}}</p>
+
+    <h4>Summary</h4>
+    <p>Total City: {{counts.city_count}}</p>
+    <p>Total District: {{counts.district_count}}</p>
+    <p>Total Store: {{counts.store_count}}</p>
+    <p>Total Manufacture: {{counts.manufacture_name}}</p>
+    <p>Total Product: {{counts.product_count}}</p>
+    <p>Total Category: {{counts.category_count}}</p>
+    <p>Total Holiday Names: {{counts.holiday_name_count}}</p>
+    <p>Total Holiday Dates: {{counts.holiday_date_count}}</p>
+  </div>
+</div>
+<script
+  type="module"
+  src="{{ url_for('static', filename='js/home.js') }}"
+></script>
+{% endblock %}

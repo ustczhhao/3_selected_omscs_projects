@@ -1,0 +1,501 @@
+store_number,district_number,phone_number,city_name,state
+481,1,1634602222,Columbus,Ohio
+479,6,1229803045,Bakersfield,California
+480,4,2750672075,Portland,Oregon
+478,5,9479328065,Glendale,Arizona
+477,1,8620731401,North Las Vegas,Nevada
+476,3,7948944039,Glendale,Arizona
+475,1,4639854061,Garland,Texas
+474,5,2548145019,St. Paul,Minnesota
+472,5,1448888005,Indianapolis,Indiana
+473,6,5531820239,Miami,Florida
+471,1,4582485890,Chesapeake,Virginia
+470,2,8791589930,Scottsdale,Arizona
+469,6,0458534271,Omaha,Nebraska
+468,6,8408378033,Tucson,Arizona
+467,5,9460074593,Durham,North Carolina
+466,3,1826353275,Portland,Oregon
+465,2,4391998983,Mesa,Arizona
+464,1,8866428814,Stockton,California
+463,4,9458536109,Tampa,Florida
+462,5,6237968303,Mesa,Arizona
+461,2,6386304513,Fort Worth,Texas
+459,3,0079249255,Oakland,California
+460,2,2463005650,Mesa,Arizona
+458,1,8298516408,Atlanta,Georgia
+457,4,0499072226,Raleigh,North Carolina
+456,4,1234116232,Corpus Christi,Texas
+454,6,4367928917,San Francisco,California
+455,2,7736431636,Miami,Florida
+453,5,1962276232,Indianapolis,Indiana
+452,3,8873279541,Boston,Massachusetts
+451,5,0093813390,Philadelphia,Pennsylvania
+450,5,0989059420,El Paso,Texas
+449,1,0249477230,Houston,Texas
+448,3,9515025944,Miami,Florida
+447,4,0488898556,Anaheim,California
+446,4,0263642934,Seattle,Washington
+445,1,7963875545,Jacksonville,Florida
+443,5,3107509965,Long Beach,California
+444,6,3946837684,San Jose,California
+442,1,2882142685,Colorado Springs,Colorado
+441,6,7945835822,Philadelphia,Pennsylvania
+439,2,6366441480,Laredo,Texas
+440,5,5843313936,St. Paul,Minnesota
+438,1,1785875818,Los Angeles,California
+437,2,7339905483,Houston,Texas
+436,2,6857304399,Seattle,Washington
+435,5,0822998645,Lubbock,Texas
+434,6,8382709890,Miami,Florida
+433,6,6213637974,Bakersfield,California
+432,2,4840005375,San Francisco,California
+430,2,3508612214,St. Petersburg,Florida
+431,4,9221534925,Fort Worth,Texas
+429,4,1704906563,Long Beach,California
+428,2,0990677462,Anaheim,California
+425,6,4597802201,Colorado Springs,Colorado
+426,5,0199852424,Detroit,Michigan
+427,3,6546823657,Miami,Florida
+424,5,8657345186,Durham,North Carolina
+423,3,1695146186,Arlington,Texas
+421,1,9434757040,Buffalo,New York
+422,4,2583771613,Denver,Colorado
+420,3,5782736083,Newark,New Jersey
+418,1,9232022584,Laredo,Texas
+419,6,6510772752,Cleveland,Ohio
+417,4,8895483375,Winston-Salem,North Carolina
+416,3,0213980782,Austin,Texas
+414,6,8471603547,New York,New York
+415,2,5288706446,Baton Rouge,Louisiana
+412,2,0977226382,Madison,Wisconsin
+413,5,9354385359,Richmond,Virginia
+410,6,0545067370,Jersey City,New Jersey
+411,1,9917773529,Glendale,Arizona
+409,3,8184815839,Los Angeles,California
+408,6,3654492377,Fort Wayne,Indiana
+407,4,3449462674,Bakersfield,California
+404,3,2405566675,Anaheim,California
+405,6,0706591911,Houston,Texas
+406,6,3544225293,El Paso,Texas
+402,6,4891439667,San Antonio,Texas
+403,1,0857346418,Honolulu,Hawaii
+401,3,8145136193,Jacksonville,Florida
+400,5,5284777919,Fresno,California
+398,2,2658516438,Reno,Nevada
+399,6,0677339551,Austin,Texas
+397,5,3755453724,Corpus Christi,Texas
+396,5,2580839404,St. Paul,Minnesota
+395,4,6230275498,Fort Wayne,Indiana
+394,2,1170372520,Dallas,Texas
+392,2,4132559978,New Orleans,Louisiana
+393,2,2441484737,Henderson,Nevada
+390,5,4189948066,Santa Ana,California
+391,4,2578618553,Kansas City,Missouri
+389,3,7209945569,Columbus,Ohio
+388,4,7106485161,Chesapeake,Virginia
+387,1,8736270873,Cleveland,Ohio
+386,1,6421135158,Lincoln,Nebraska
+385,1,4334112672,Pittsburgh,Pennsylvania
+384,6,0565643983,Baltimore,Maryland
+383,4,5991939786,Tampa,Florida
+382,4,3945116159,Honolulu,Hawaii
+380,1,3745398818,Bakersfield,California
+381,2,9430978193,Chesapeake,Virginia
+379,1,6543248341,Portland,Oregon
+378,2,8335492858,Aurora,Colorado
+377,3,4171068544,Lexington-Fayette,Kentucky
+376,1,0521399510,Raleigh,North Carolina
+375,5,8236805802,Tucson,Arizona
+374,4,6849339918,Portland,Oregon
+371,4,6238926251,Cincinnati,Ohio
+372,4,0471579420,Columbus,Ohio
+373,3,0770323230,Bakersfield,California
+370,4,7781305630,Norfolk,Virginia
+369,5,0497140699,Hialeah,Florida
+368,1,0531152214,Detroit,Michigan
+367,6,6491557829,San Francisco,California
+366,4,1244500174,San Jose,California
+365,2,6177750222,Minneapolis,Minnesota
+363,1,2335354170,Glendale,Arizona
+364,2,7974773463,Norfolk,Virginia
+362,1,9929206232,Fremont,California
+361,2,2763165133,Newark,New Jersey
+360,4,5411648344,Greensboro,North Carolina
+359,4,7159778682,Chesapeake,Virginia
+358,6,7292399880,Laredo,Texas
+357,6,7660413089,Tulsa,Oklahoma
+356,6,5568032245,Honolulu,Hawaii
+355,6,9728138288,San Francisco,California
+354,1,8591191507,Raleigh,North Carolina
+353,1,7556631893,Toledo,Ohio
+352,4,5878493922,Chicago,Illinois
+350,1,9567674258,North Las Vegas,Nevada
+351,5,2133112154,Milwaukee,Wisconsin
+348,6,9999524524,Hialeah,Florida
+349,5,2339807138,Baltimore,Maryland
+347,1,1732392593,Henderson,Nevada
+346,3,9142673245,Garland,Texas
+345,3,6199965329,Albuquerque,New Mexico
+344,4,5773706797,Cincinnati,Ohio
+343,4,6814212967,Anaheim,California
+342,2,2799494790,Riverside,California
+340,5,4256901133,Phoenix,Arizona
+341,3,7192186906,Durham,North Carolina
+339,1,5992147693,Corpus Christi,Texas
+338,2,0911933873,Irving,Texas
+337,6,5483815684,Aurora,Colorado
+336,6,7896734194,Henderson,Nevada
+334,4,4532809359,Stockton,California
+335,3,7730110037,North Las Vegas,Nevada
+333,4,0009493779,Fremont,California
+331,1,1579139758,Lubbock,Texas
+332,1,6311656263,Denver,Colorado
+329,4,3543426515,Baton Rouge,Louisiana
+330,5,9380074035,Cincinnati,Ohio
+327,4,5974917067,Kansas City,Missouri
+328,4,9901057954,San Francisco,California
+326,6,9363142169,San Jose,California
+325,5,7665101657,Washington,District of Columbia
+324,4,2518960347,Columbus,Ohio
+323,5,6283213634,New York,New York
+322,2,0011723586,Chicago,Illinois
+321,4,1641114145,Fort Worth,Texas
+320,6,7642337922,Bakersfield,California
+318,6,7249872143,Phoenix,Arizona
+319,4,4250895299,Long Beach,California
+317,3,3257226387,Newark,New Jersey
+314,3,0048035277,Austin,Texas
+315,5,1148802341,Austin,Texas
+316,3,1117761812,Norfolk,Virginia
+312,1,0026734396,Scottsdale,Arizona
+313,2,4401500290,Madison,Wisconsin
+311,4,7287128004,Jersey City,New Jersey
+310,1,5113170541,Plano,Texas
+308,1,5107214718,Laredo,Texas
+309,4,4568268332,El Paso,Texas
+307,6,9908199561,Atlanta,Georgia
+306,4,5416173720,Pittsburgh,Pennsylvania
+305,1,7451026607,Milwaukee,Wisconsin
+304,3,7872178028,Bakersfield,California
+302,6,8392832913,Charlotte,North Carolina
+303,2,4448294348,Aurora,Colorado
+301,6,3435784980,Columbus,Ohio
+300,3,6950048997,Santa Ana,California
+299,2,9181565928,Riverside,California
+298,6,7880553219,Louisville/Jefferson County,Kentucky
+297,4,4391669443,North Las Vegas,Nevada
+296,4,3228286908,Reno,Nevada
+295,1,2938705797,Kansas City,Missouri
+294,3,4753615029,Nashville-Davidson,Tennessee
+293,4,8768046410,Boston,Massachusetts
+291,2,0163092785,Seattle,Washington
+292,4,4545914327,Laredo,Texas
+290,6,8987492959,Lexington-Fayette,Kentucky
+289,2,5731751095,Tulsa,Oklahoma
+288,3,1582325377,Omaha,Nebraska
+287,5,4716968841,Chula Vista,California
+286,4,5867444593,Houston,Texas
+285,3,5126613909,St. Paul,Minnesota
+284,1,3756398877,Kansas City,Missouri
+283,1,9721647890,Houston,Texas
+281,1,3168684021,St. Louis,Missouri
+282,1,0620263213,Chesapeake,Virginia
+280,5,2667863100,Chula Vista,California
+279,5,8560462545,Corpus Christi,Texas
+277,3,8779311289,Austin,Texas
+278,1,0144263020,Cleveland,Ohio
+275,5,0676924997,Kansas City,Missouri
+276,6,3729874200,Irving,Texas
+274,5,2615026546,Cleveland,Ohio
+273,5,5772964207,Oakland,California
+271,5,1917030081,Denver,Colorado
+272,5,7981596925,Lexington-Fayette,Kentucky
+270,2,9425644288,Columbus,Ohio
+269,2,1198193607,Washington,District of Columbia
+268,6,1210530087,Atlanta,Georgia
+267,6,1924030320,Boise City,Idaho
+266,6,4745631629,Anchorage,Alaska
+265,6,3498181792,Lubbock,Texas
+264,1,8396016078,Bakersfield,California
+263,3,6414396896,San Diego,California
+262,4,4949433742,Los Angeles,California
+259,3,0652453186,Tucson,Arizona
+260,4,5265981326,Nashville-Davidson,Tennessee
+261,6,0093641111,Albuquerque,New Mexico
+258,3,6943035684,New Orleans,Louisiana
+256,6,1246464575,Phoenix,Arizona
+257,6,7109321765,Tucson,Arizona
+255,1,9482706408,Honolulu,Hawaii
+254,5,2452412741,San Diego,California
+253,3,8856816870,Mesa,Arizona
+252,4,6647255127,Jersey City,New Jersey
+251,2,5321699713,Newark,New Jersey
+250,4,6568822404,Tampa,Florida
+248,5,0010226195,Pittsburgh,Pennsylvania
+249,2,6123737831,Baltimore,Maryland
+247,4,0227090678,Fort Wayne,Indiana
+245,2,0368914225,Aurora,Colorado
+246,1,0248926350,Lincoln,Nebraska
+243,3,3433952683,San Antonio,Texas
+244,2,6118583880,Anchorage,Alaska
+242,4,6677634593,Wichita,Kansas
+240,4,4240337331,Garland,Texas
+241,2,0305047027,Fresno,California
+239,1,3654884983,Omaha,Nebraska
+238,5,7524432000,Boise City,Idaho
+237,1,5628425423,Seattle,Washington
+236,5,1338079550,North Las Vegas,Nevada
+235,3,0263393529,New York,New York
+234,2,0056053093,Orlando,Florida
+233,2,0696757277,Irvine,California
+230,5,0382625416,Oklahoma City,Oklahoma
+231,6,5890091299,Norfolk,Virginia
+232,4,4928346960,Orlando,Florida
+228,5,1132126102,Philadelphia,Pennsylvania
+229,1,9966598409,Colorado Springs,Colorado
+227,2,4220329058,Washington,District of Columbia
+225,4,0985625931,Phoenix,Arizona
+226,5,4223679555,Portland,Oregon
+224,3,8830546171,Tulsa,Oklahoma
+223,3,4235464296,Hialeah,Florida
+222,2,4198641487,Stockton,California
+221,3,1788493954,Lubbock,Texas
+219,2,3836013464,Scottsdale,Arizona
+220,4,3490141621,Richmond,Virginia
+218,1,9434062756,Lexington-Fayette,Kentucky
+217,6,3252384559,Tampa,Florida
+216,4,1882282876,Mesa,Arizona
+215,4,0322864397,Madison,Wisconsin
+213,6,9546851403,Miami,Florida
+214,5,4603028105,Raleigh,North Carolina
+210,2,8856409505,Toledo,Ohio
+211,2,8112954948,Orlando,Florida
+212,6,8210133470,Houston,Texas
+209,6,7613224581,Pittsburgh,Pennsylvania
+207,5,7388638830,Tulsa,Oklahoma
+208,5,3816477350,Sacramento,California
+206,1,9935380288,Denver,Colorado
+205,3,1191755290,Orlando,Florida
+204,4,3112733954,Minneapolis,Minnesota
+203,5,9617048310,San Francisco,California
+200,3,2975322922,San Antonio,Texas
+201,5,3664284552,Norfolk,Virginia
+202,1,2181010037,Washington,District of Columbia
+199,3,4367981472,Nashville-Davidson,Tennessee
+197,5,5917804501,Washington,District of Columbia
+198,3,9232187927,Reno,Nevada
+195,1,7504425568,San Francisco,California
+196,4,0743016582,Laredo,Texas
+194,5,4232094725,Boise City,Idaho
+193,6,7402105345,Indianapolis,Indiana
+192,5,7528943791,Fort Wayne,Indiana
+190,2,0678923755,Arlington,Texas
+191,5,0589495361,Houston,Texas
+189,3,0889706886,New York,New York
+188,4,8377466564,Louisville/Jefferson County,Kentucky
+186,4,2214277151,Omaha,Nebraska
+187,4,9183052171,Irving,Texas
+185,1,7713830379,Jersey City,New Jersey
+184,6,3696054817,Santa Ana,California
+183,2,1241721514,San Bernardino,California
+182,6,9332072108,Indianapolis,Indiana
+181,5,1333897628,Bakersfield,California
+180,5,6847008671,Baltimore,Maryland
+178,4,0412550817,Mesa,Arizona
+179,5,3407120053,Denver,Colorado
+177,3,3221564870,San Jose,California
+175,2,0678077561,Charlotte,North Carolina
+176,3,6510806839,St. Louis,Missouri
+174,3,0449979091,Albuquerque,New Mexico
+173,2,2782901428,Arlington,Texas
+171,2,8107099783,Cincinnati,Ohio
+172,2,5170541933,Atlanta,Georgia
+169,2,8993213049,Baton Rouge,Louisiana
+170,3,0595927497,Kansas City,Missouri
+168,4,9465348200,New Orleans,Louisiana
+167,5,8261258503,Gilbert,Arizona
+166,1,0993411726,Irvine,California
+165,6,6182765584,Lubbock,Texas
+164,2,4121506460,Milwaukee,Wisconsin
+163,2,6198436089,St. Petersburg,Florida
+161,5,3554182931,Lubbock,Texas
+162,2,5508888905,Oklahoma City,Oklahoma
+160,5,6294237168,Lincoln,Nebraska
+158,3,3562086204,Las Vegas,Nevada
+159,2,2544340833,Fremont,California
+157,5,9136707003,Bakersfield,California
+156,6,4467359654,Plano,Texas
+155,3,9512129468,Aurora,Colorado
+154,1,4973915088,Bakersfield,California
+152,4,6994460879,Aurora,Colorado
+153,5,5331305596,Charlotte,North Carolina
+151,4,1531773822,Aurora,Colorado
+150,5,5888112006,Mesa,Arizona
+149,2,4272234578,Fresno,California
+148,5,0734658317,Houston,Texas
+147,3,9628087973,Tucson,Arizona
+144,3,6917138913,Milwaukee,Wisconsin
+145,3,7800775551,Austin,Texas
+146,5,1558369437,Las Vegas,Nevada
+143,3,0787879045,Irving,Texas
+141,2,1428008931,Hialeah,Florida
+142,2,0474875198,Philadelphia,Pennsylvania
+140,2,4985020502,Cleveland,Ohio
+139,4,0379502055,Charlotte,North Carolina
+138,5,7234826991,Jersey City,New Jersey
+137,6,9239284200,Santa Ana,California
+135,6,5670342923,Reno,Nevada
+136,6,5586568775,Baton Rouge,Louisiana
+134,5,7263522516,Baltimore,Maryland
+132,3,0223428523,Arlington,Texas
+133,1,9223571130,St. Paul,Minnesota
+131,1,1764780960,Fort Wayne,Indiana
+130,3,2876434661,Anchorage,Alaska
+129,5,0541660492,Cincinnati,Ohio
+128,4,6679218562,Omaha,Nebraska
+127,4,0449615972,San Antonio,Texas
+126,4,2163176759,Durham,North Carolina
+124,2,0880561678,Lubbock,Texas
+125,1,8787430152,Fremont,California
+123,3,4100537942,Plano,Texas
+122,6,4381038457,Raleigh,North Carolina
+121,3,4729165843,Irving,Texas
+120,6,3202187777,Buffalo,New York
+119,5,0221163925,Lubbock,Texas
+118,4,3120377976,Stockton,California
+116,3,6545516448,Glendale,Arizona
+117,4,9593588360,Aurora,Colorado
+115,2,0459372845,Pittsburgh,Pennsylvania
+114,5,7582520761,Mesa,Arizona
+113,5,3530896686,Long Beach,California
+112,6,3858998863,Washington,District of Columbia
+111,4,8790628082,Gilbert,Arizona
+110,1,3795673718,Columbus,Ohio
+109,6,0695470072,Lexington-Fayette,Kentucky
+108,5,0727521510,Jersey City,New Jersey
+107,5,0176371388,Garland,Texas
+106,6,4236898553,Charlotte,North Carolina
+104,6,9320529863,Lincoln,Nebraska
+105,3,4256386701,Indianapolis,Indiana
+103,5,7273997565,Raleigh,North Carolina
+102,6,0741823531,Detroit,Michigan
+101,3,8446764886,Phoenix,Arizona
+100,2,6296477590,Anchorage,Alaska
+99,4,3440482008,Fort Worth,Texas
+98,4,8441428859,St. Petersburg,Florida
+97,3,8290883158,Austin,Texas
+96,2,9240037483,Tampa,Florida
+95,2,9931343096,Henderson,Nevada
+93,5,9209598115,Laredo,Texas
+94,1,5494587705,Miami,Florida
+92,3,3141191048,Denver,Colorado
+91,5,4532956654,Minneapolis,Minnesota
+90,2,1500077171,Glendale,Arizona
+89,2,1675962429,Mesa,Arizona
+87,6,5158517556,Garland,Texas
+88,5,6348365470,Fresno,California
+86,6,1805326817,Santa Ana,California
+85,3,5331976404,Winston-Salem,North Carolina
+84,2,4137800227,Irvine,California
+83,6,7853662357,Riverside,California
+82,3,6369202325,Miami,Florida
+81,1,8107141638,Tampa,Florida
+80,6,0789064207,Chandler,Arizona
+79,3,4990184930,El Paso,Texas
+77,6,2670186135,Dallas,Texas
+78,2,1264760266,Chula Vista,California
+76,3,2967479208,Fort Worth,Texas
+75,3,6739136218,Norfolk,Virginia
+74,6,9463016809,Memphis,Tennessee
+73,4,6808276814,Philadelphia,Pennsylvania
+72,5,0667600824,Scottsdale,Arizona
+71,3,2308789104,Nashville-Davidson,Tennessee
+70,3,4130906517,Denver,Colorado
+69,1,1898053954,Kansas City,Missouri
+68,3,0548196953,St. Petersburg,Florida
+67,3,3726498262,Tampa,Florida
+66,1,4382326181,Austin,Texas
+65,3,0875959792,San Bernardino,California
+64,2,9129693296,Bakersfield,California
+63,6,3887268006,Oakland,California
+61,2,0292033963,Wichita,Kansas
+62,4,9964785061,Los Angeles,California
+59,1,5417041845,El Paso,Texas
+60,1,4863657060,Madison,Wisconsin
+57,5,4699666080,Irving,Texas
+58,1,9342740815,Houston,Texas
+56,3,9999182419,Portland,Oregon
+55,3,4184490206,Dallas,Texas
+54,1,3286785192,Arlington,Texas
+53,6,3765938888,Pittsburgh,Pennsylvania
+52,5,2451968434,Madison,Wisconsin
+51,1,0027769598,Boston,Massachusetts
+50,5,7568116687,Cincinnati,Ohio
+49,5,5241491229,Lubbock,Texas
+48,6,4224130401,Reno,Nevada
+47,4,6666364253,Fort Worth,Texas
+46,5,2389716259,Chicago,Illinois
+45,3,1186839183,Anchorage,Alaska
+44,5,8455169484,Glendale,Arizona
+43,2,1678867259,Laredo,Texas
+42,6,7221430995,Corpus Christi,Texas
+41,1,3248769516,Boise City,Idaho
+40,6,2927590092,Jacksonville,Florida
+39,1,7660706609,Lincoln,Nebraska
+38,4,9935855402,Portland,Oregon
+37,4,8393937644,Cincinnati,Ohio
+36,2,3831202332,Detroit,Michigan
+35,1,0281248790,Fremont,California
+34,6,0629196370,Chandler,Arizona
+33,3,5826188612,Virginia Beach,Virginia
+32,5,1296070885,Kansas City,Missouri
+31,3,0966844750,Houston,Texas
+30,3,6857008091,Albuquerque,New Mexico
+29,1,0913669390,North Las Vegas,Nevada
+28,6,3550854909,El Paso,Texas
+27,2,3299991360,San Antonio,Texas
+26,1,4718020329,Cincinnati,Ohio
+25,4,8150511114,Dallas,Texas
+24,3,7400837800,San Bernardino,California
+23,6,9105070482,Buffalo,New York
+22,5,6770052013,Long Beach,California
+21,2,3318612738,St. Petersburg,Florida
+20,6,0494027157,Reno,Nevada
+19,1,2685900473,Raleigh,North Carolina
+18,2,7872365529,Scottsdale,Arizona
+17,3,9389274791,Raleigh,North Carolina
+16,1,9320858949,Washington,District of Columbia
+15,5,2509678175,Wichita,Kansas
+14,1,3930579416,Fresno,California
+13,1,5929116164,Arlington,Texas
+12,6,9369562052,Tucson,Arizona
+11,1,0185610994,Oklahoma City,Oklahoma
+10,5,7312999806,Laredo,Texas
+9,1,8185929158,Newark,New Jersey
+8,4,0590794416,El Paso,Texas
+7,3,8103428832,Anaheim,California
+6,2,7748628426,Hialeah,Florida
+5,2,5155298197,Madison,Wisconsin
+4,3,0591914989,Tucson,Arizona
+3,2,5832650603,Orlando,Florida
+2,2,4204736385,Arlington,Texas
+1,1,1620834749,Columbus,Ohio
+482,2,4747097620,Buffalo,New York
+483,2,5221525612,St. Paul,Minnesota
+484,4,1240779970,Virginia Beach,Virginia
+485,5,0664351961,Winston-Salem,North Carolina
+486,2,5850396376,Buffalo,New York
+487,5,9762402017,Dallas,Texas
+488,3,1564465086,Omaha,Nebraska
+489,5,7764106246,Charlotte,North Carolina
+490,2,0108587449,St. Louis,Missouri
+491,3,6350301618,Reno,Nevada
+492,1,0484089769,Irvine,California
+493,6,4703485907,Memphis,Tennessee
+494,6,0080068211,Fort Worth,Texas
+495,4,2796059363,Los Angeles,California
+496,5,3375542294,Fort Wayne,Indiana
+497,4,6751274359,New York,New York
+498,3,9484530283,Corpus Christi,Texas
+499,1,1133548145,Riverside,California
+500,1,8499010510,Columbus,Ohio

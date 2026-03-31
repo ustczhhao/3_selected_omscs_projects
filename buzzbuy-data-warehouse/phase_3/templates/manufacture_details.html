@@ -1,0 +1,32 @@
+{% extends 'base.html' %}{% block content %}
+<div>
+    <h1>Details for {{ manufacture.manufacture_name }}</h1>
+    <h3>Summary</h3>
+    <p>Total Products: {{ manufacture.count }}</p>
+    <p>Average Price: ${{ "{:,}".format(manufacture.avg_price) }}</p>
+    <p>Min Price: ${{ "{:,}".format(manufacture.min_price) }}</p>
+    <p>Max Price: ${{ "{:,}".format(manufacture.max_price) }}</p>
+
+    <h3>Products</h3>
+    <table class="table table-warning m-0">
+        <thead>
+            <tr>
+                <th>Product ID</th>
+                <th>Name</th>
+                <th>Categories</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for product in products %}
+            <tr>
+                <td>{{ product.PID }}</td>
+                <td>{{ product.pname }}</td>
+                <td>{{ product.categories }}</td>
+                <td>${{ "{:,}".format(product.retail_price) }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}

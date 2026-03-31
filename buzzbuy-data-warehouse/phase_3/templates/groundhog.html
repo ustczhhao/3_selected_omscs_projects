@@ -1,0 +1,10 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Air Conditioners on Groundhog Day</h1>
+<p class="p-2">Sorted by year in ascending order.</p>
+<div id="main-container"></div>
+<script
+  type="module"
+  src="{{ url_for('static', filename='js/groundhog.js') }}"
+></script>
+
+{% endblock %}
